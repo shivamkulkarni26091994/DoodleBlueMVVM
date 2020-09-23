@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_list"
+        android:title="@string/title_prices" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:title="@string/title_favourite" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_bar_graph"
+        android:title="@string/title_portfolio" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_rss"
+        android:title="@string/title_news" />
+
+    <item
+        android:id="@+id/navigation_invest"
+        android:icon="@drawable/ic_money_graph_with_up_arrow"
+        android:title="@string/title_invest" />
+</menu>
